@@ -35,6 +35,8 @@ body {
 
     /* border: 1px solid red; */
     background-image: url('./img-header.webp');
+    background-repeat:no-repeat;
+    background-size: cover;
 
     border-radius: 2rem;
     padding: 5px;
@@ -73,7 +75,8 @@ body {
 }
 
 .section-bottoms {
-    background-image: url('./img-header.webp');
+    /* background-image: url('./img-header.webp'); */
+    background: #cbc0c057;
     border-radius: 2rem;
     /* padding: 5px; */
     overflow: hidden;
@@ -136,7 +139,8 @@ body {
 .section h2 {
     background-color: #333333de;
     color: #fff;
-    color: rgb(0, 213, 255);
+    /* color: rgb(0, 213, 255); */
+    /* color: ; */
     /* padding: 10px; */
     margin: 0 -10px;
     margin-bottom: 10px;
