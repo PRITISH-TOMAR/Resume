@@ -38,9 +38,10 @@ body {
     background-repeat:no-repeat;
     background-size: cover;
 
-    border-radius: 2rem;
-    padding: 5px;
+    border-radius: 1rem;
+    padding: 10px 20px;
 }
+
 
 
 .head-left {
@@ -77,10 +78,11 @@ body {
 .section-bottoms {
     /* background-image: url('./img-header.webp'); */
     background: #cbc0c057;
-    border-radius: 2rem;
+    
     /* padding: 5px; */
     overflow: hidden;
     padding-top: 0;
+    border-radius: 1rem;
     
 }
 
